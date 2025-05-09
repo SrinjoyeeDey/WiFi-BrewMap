@@ -41,6 +41,15 @@ wifi-brewmap/ │ ├── static/ │   └── style.css         🎨 Custo
 
 ---
 
+## ✨ Sneak Peek
+
+
+![WiFi Brew![brewmap-preview](https://github.com/user-attachments/assets/313798ab-720c-470f-acb9-83f2de7ba7f5)
+Map Screenshot](link-to-your-screenshot.png)
+
+
+---
+
 ## ⚙ Setup Instructions
 
 ### 1. ☁ Clone the repo
@@ -77,17 +86,6 @@ Flask==2.3.2
 WTForms==3.0.1
 Flask-WTF==1.2.1
 Werkzeug==3.0.0
-
-
----
-
-✨ Sneak Peek
-
-> Add a screenshot here!
-
-
-
-![WiFi BrewMap Screenshot](link-to-your-screenshot.png)
 
 
 ---
