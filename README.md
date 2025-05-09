@@ -44,9 +44,7 @@ wifi-brewmap/ │ ├── static/ │   └── style.css         🎨 Custo
 ## ✨ Sneak Peek
 
 
-![WiFi Brew![brewmap-preview](https://github.com/user-attachments/assets/313798ab-720c-470f-acb9-83f2de7ba7f5)
-Map Screenshot](link-to-your-screenshot.png)
-
+![brewmap-preview](https://github.com/user-attachments/assets/4753c673-68e3-4c42-a7ad-b4f6691d354a)
 
 ---
 
