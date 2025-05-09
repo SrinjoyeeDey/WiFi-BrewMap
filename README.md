@@ -107,9 +107,8 @@ MIT License — use it, remix it, and caffeinate the world with it!
 
 Platform	Link
 
-💼 LinkedIn	Your Name
-🐦 Twitter	@yourhandle
-✉ Email	your@email.com
+💼 LinkedIn	Srinjoyee Dey
+✉ Email	deysrinjoyee28@gmail.com
 
 
 
